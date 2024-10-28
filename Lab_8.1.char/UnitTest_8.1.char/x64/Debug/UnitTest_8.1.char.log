@@ -1,0 +1,12 @@
+﻿  UnitTest_8.1.char.cpp
+C:\Users\Admin\source\repos\Lab_8.1.char\UnitTest_8.1.char\UnitTest_8.1.char.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest_8.1.char.cpp')
+      C:\Users\Admin\source\repos\Lab_8.1.char\UnitTest_8.1.char\UnitTest_8.1.char.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\Admin\source\repos\Lab_8.1.char\UnitTest_8.1.char\UnitTest_8.1.char.cpp(2,1):
+      use of precompiled header
+  
+C:\Users\Admin\source\repos\Lab_8.1.char\Lab_8.1.char\Lab_8.1.char.cpp(41,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest_8.1.char.cpp')
+  
+  UnitTest_8.1.char.vcxproj -> C:\Users\Admin\source\repos\Lab_8.1.char\x64\Debug\UnitTest_8.1.char.dll
